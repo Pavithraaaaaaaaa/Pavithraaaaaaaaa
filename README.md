@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+<img src="https://camo.githubusercontent.com/fcfa945d777dee51f5f5d99ec0754ca5371bbcdcee40070528174a47a4c3d3a6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" width="100%"/>
 
 # Hi 👋 I'm Pavithra S
 
@@ -148,21 +148,45 @@ National University of Singapore (2024)
 
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
-<p align="center">
+<table>
+<tr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavithrasureshkumar&show_icons=true&theme=tokyonight"/>
+<td width="60%">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithrasureshkumar&layout=compact&theme=tokyonight"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=pavithrasureshkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasureshkumar&theme=tokyonight&hide_border=true"
+/>
+
+</td>
+
+<td width="40%" align="center">
+
+<img
+  src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif"
+  width="320"
+/>
+
+<br/><br/>
+
+<h3>🚀 Building AI Solutions</h3>
+
+<p>
+Passionate about Machine Learning,<br/>
+Deep Learning, NLP and Generative AI.
 </p>
 
-<p align="center">
+</td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasureshkumar&theme=tokyonight"/>
-
-</p>
+</tr>
+</table>
 
 ---
 
