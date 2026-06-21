@@ -4,53 +4,52 @@
 
 # Hi 👋 I'm Pavithra S
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Data+Science+%7C+AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Practitioner;NLP+%26+Generative+AI+Explorer;Building+AI+Products+for+Real+World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=Data+Science+Student;AI+%26+Machine+Learning+Engineer;Deep+Learning+Practitioner;NLP+%26+Generative+AI+Explorer;Building+AI+Products+for+Real+World+Impact" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 MSc Applied Data Science Student at SRM Institute of Science and Technology
 
-🧠 Passionate about Artificial Intelligence, Machine Learning, NLP, and Deep Learning
+🧠 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and NLP
 
-📊 Experienced in building production-ready AI systems from data preprocessing to deployment
+📊 Experienced in building end-to-end AI solutions from data engineering to deployment
 
-🔬 Interested in Generative AI, Recommendation Systems, Computer Vision, and AI Product Development
+🔬 Interested in Generative AI, Recommendation Systems, Computer Vision and AI Product Development
 
-🌱 Currently exploring LLM Applications, Agentic AI Systems, and Scalable AI Architectures
+🌱 Exploring LLM Applications, Agentic AI Systems and Scalable AI Architectures
 
-💡 Love transforming research ideas into impactful AI solutions
-
----
-
-## 💼 Experience
-
-### Data Science Intern
-**Techvolt Software, Coimbatore**
-
-- Improved customer segmentation model accuracy by **23%**
-- Automated preprocessing pipelines reducing cleaning effort by **35%**
-- Applied advanced feature engineering techniques improving model performance by **18%**
-- Collaborated with cross-functional teams to deliver analytics solutions
+💡 Driven by transforming research into impactful AI products
 
 ---
 
-## 🌟 Featured Projects
+# 💼 Experience
 
-### 🎓 Mentora – AI Personalized Learning Platform
+## Data Science Intern | Techvolt Software
+
+* Improved customer segmentation model accuracy by **23%**
+* Automated preprocessing pipelines reducing cleaning effort by **35%**
+* Applied advanced feature engineering improving model performance by **18%**
+* Collaborated with engineering and business teams to deliver analytics solutions
+
+---
+
+# 🌟 Featured Projects
+
+## 🎓 Mentora — AI Personalized Learning Platform
 
 An intelligent learning ecosystem combining:
 
-- AI Chatbot
-- Multi-PDF Assistant
-- Smart Notes Generator
-- Content Extraction Engine
-- Personalized Course Recommendation System
+* AI Chatbot
+* Multi-PDF Assistant
+* Smart Notes Generator
+* Content Extraction Engine
+* Personalized Course Recommendation System
 
-#### Impact
+### Key Impact
 
 ✅ 60% Faster Query Resolution
 
@@ -62,85 +61,110 @@ An intelligent learning ecosystem combining:
 
 ---
 
-### 🪪 VisionKYC – AI Identity Verification System
+## 🪪 VisionKYC — AI Identity Verification System
 
 Real-time AI-powered KYC verification platform
 
-#### Highlights
+### Key Impact
 
 🔹 99.2% Face Recognition Accuracy
 
-🔹 Sub-3 Second Verification Time
+🔹 Sub-3 Second Verification
 
 🔹 98.7% Spoof Attack Prevention
 
 🔹 Multilingual Conversational AI Assistant
 
-🔹 Enterprise-grade Real-Time Inference Pipeline
+🔹 Enterprise-Grade Inference Pipeline
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-### Machine Learning & AI
+### AI / ML
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Deep_Learning-EF4444?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LLMs-0EA5E9?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge"/>
+
 </p>
 
-### Frameworks
+### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,docker,git" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,docker,git"/>
+
 </p>
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Gradio-FF7A00?style=for-the-badge"/>
+
 </p>
 
 ### Data Analytics
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### MSc Applied Data Science
+## MSc Applied Data Science
+
 SRM Institute of Science and Technology
 
 **CGPA: 9.6 / 10**
 
+### Chennai, India
+
 ---
 
-### BSc Data Science
+## BSc Data Science
 
 Kumaraguru College of Liberal Arts and Science
 
 **CGPA: 8.2 / 10**
 
+### Coimbatore, India
+
 ---
 
-## 📜 Certifications
+# 📜 Certification
 
 🏅 AI-Powered Business Analytics & Deep Learning
 
@@ -150,38 +174,41 @@ National University of Singapore (2024)
 
 # 📊 GitHub Analytics
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="60%">
+<td width="65%" valign="top">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=pavithrasureshkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=pavithrasureshkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+width="100%"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasureshkumar&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=pavithrasureshkumar&theme=tokyonight&hide_border=true"
+width="100%"
 />
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img
-  src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif"
-  width="320"
+src="https://raw.githubusercontent.com/darostegui/darostegui/main/octocat-moving.gif"
+width="320"
 />
 
 <br/><br/>
 
-<h3>🚀 Building AI Solutions</h3>
+### 🚀 Building AI Solutions
 
-<p>
-Passionate about Machine Learning,<br/>
-Deep Learning, NLP and Generative AI.
-</p>
+Machine Learning • Deep Learning • NLP • GenAI
+
+<br/>
+
+Passionate about building intelligent systems that transform data into meaningful insights and impactful products.
 
 </td>
 
@@ -190,7 +217,7 @@ Deep Learning, NLP and Generative AI.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -202,7 +229,7 @@ Deep Learning, NLP and Generative AI.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
