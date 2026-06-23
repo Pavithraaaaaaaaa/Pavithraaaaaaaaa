@@ -37,48 +37,6 @@
 
 ---
 
-# 🌟 Featured Projects
-
-## 🎓 Mentora — AI Personalized Learning Platform
-
-An intelligent learning ecosystem combining:
-
-* AI Chatbot
-* Multi-PDF Assistant
-* Smart Notes Generator
-* Content Extraction Engine
-* Personalized Course Recommendation System
-
-### Key Impact
-
-✅ 60% Faster Query Resolution
-
-✅ 40% Reduction in Content Processing Time
-
-✅ 35% Better Personalization Accuracy
-
-✅ Graph-Based Student Networking System
-
----
-
-## 🪪 VisionKYC — AI Identity Verification System
-
-Real-time AI-powered KYC verification platform
-
-### Key Impact
-
-🔹 99.2% Face Recognition Accuracy
-
-🔹 Sub-3 Second Verification
-
-🔹 98.7% Spoof Attack Prevention
-
-🔹 Multilingual Conversational AI Assistant
-
-🔹 Enterprise-Grade Inference Pipeline
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
